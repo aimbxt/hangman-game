@@ -1,2 +1,2 @@
 # hangman-game
-Java Hangman Game.
+hangman game made using Java
